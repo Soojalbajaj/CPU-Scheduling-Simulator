@@ -1,0 +1,9 @@
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/cpu_scheduler_gui.dir
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/edit_cache.dir
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/rebuild_cache.dir
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/list_install_components.dir
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/install.dir
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/install/local.dir
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/install/strip.dir
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/cpu_scheduler_gui_autogen_timestamp_deps.dir
+/home/archita/cpu_scheduler_gui/build/CMakeFiles/cpu_scheduler_gui_autogen.dir
